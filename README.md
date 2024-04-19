@@ -1,4 +1,4 @@
-![Welcome](https://github.com/Arcedii/Docker-/blob/main/images/b0e8ca0c4759744b7eacf4639fa80cd5.jpg)
+![Welcome](https://github.com/Arcedii/Docker-/blob/main/images/Welcome.png)
 # Добро пожаловать на мой репозиторий, посвященный Docker
 
 Привет! Меня зовут **Дан Крэчун**, и я студент группы IA 2202. 
